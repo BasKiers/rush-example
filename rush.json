@@ -398,7 +398,7 @@
       /**
        * The path to the project folder, relative to the rush.json config file.
        */
-      "projectFolder": "apps/my-app",
+      "projectFolder": "./",
 
       /**
        * An optional category for usage in the "browser-approved-packages.json"
